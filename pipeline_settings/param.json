@@ -1,11 +1,11 @@
 {
   "Parameters": {
-    "FunctionName": "cfn-lmd-name",
-    "Description": "cfn-lmd-name",
+    "FunctionName": "cfn-lmd-oomote",
+    "Description": "cfn-lmd-oomote",
     "Handler": "index.lambda_handler",
     "MemorySize": "128",
     "Runtime": "python3.13",
     "Timeout": "10",
-    "TagsName": "oomote"
+    "TagsName": "name"
   }
 }
